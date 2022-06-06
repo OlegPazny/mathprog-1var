@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Combi.cpp
+C:\Users\Ksenia\Desktop\MP-master\MPLabs\Lab2\Knapsack\Knapsack\Combi.cpp(47,42): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Knapsack.cpp
+  Main.cpp
+  Rand.cpp
+  Создание кода...
+  Knapsack.vcxproj -> C:\Users\Ksenia\Desktop\MP-master\MPLabs\Lab2\Knapsack\Debug\Knapsack.exe

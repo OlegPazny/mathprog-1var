@@ -1,0 +1,4 @@
+﻿Salesman.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall combi3::permutation::permutation(short)" (??0permutation@combi3@@QAE@F@Z) в функции "int __cdecl salesman(int,int const *,int *)" (?salesman@@YAHHPBHPAH@Z).
+Salesman.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __int64 __thiscall combi3::permutation::getfirst(void)" (?getfirst@permutation@combi3@@QAE_JXZ) в функции "int __cdecl salesman(int,int const *,int *)" (?salesman@@YAHHPBHPAH@Z).
+Salesman.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __int64 __thiscall combi3::permutation::getnext(void)" (?getnext@permutation@combi3@@QAE_JXZ) в функции "int __cdecl salesman(int,int const *,int *)" (?salesman@@YAHHPBHPAH@Z).
+D:\БГТУ\МатПрог\ЛР 2.3\Debug\ЛР 2.3.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

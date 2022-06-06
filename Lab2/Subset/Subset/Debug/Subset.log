@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Combi.cpp
+C:\Users\Ksenia\Desktop\MP-master\MPLabs\Lab2\Subset\Subset\Combi.cpp(48,42): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Subset.cpp
+  Создание кода...
+  Subset.vcxproj -> C:\Users\Ksenia\Desktop\MP-master\MPLabs\Lab2\Subset\Debug\Subset.exe
